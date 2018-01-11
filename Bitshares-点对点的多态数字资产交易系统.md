@@ -1,5 +1,4 @@
 # Bitshares - 点对点的多态数字资产交易系统
-Bitshares账户：`jisen-yi`
 
 > [官网：bitshares.org](https://bitshares.org)
 > [bitshares-x：去中心化的银行和交易所](http://www.bitshares-x.info)
