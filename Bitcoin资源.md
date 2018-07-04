@@ -10,7 +10,6 @@
 - [bitcoinj](https://bitcoinj.github.io/#documentation)
 - [bitcoin wiki](https://en.bitcoin.it/wiki/Category:Technical)
 
-
 ### 电子书：
 
 - [比特币开发者指南](https://www.gitbook.com/book/aijs/bitcoin_developer_guide_cn/details)
@@ -74,36 +73,43 @@
 
 ### 文章
 #### 钱包
+
 - [分分钟搞懂HDM – 分层确定性多重签名](http://www.8btc.com/hdm)
 - [千里之堤毁于蚁穴（慎用HD Wallets）](http://www.8btc.com/random-4)
 - [比特币冷钱包到底应该怎么做？](http://www.8btc.com/cold-wallet)
 
 #### 随机数
+
 - [随机数：关乎比特币私钥安全](http://www.8btc.com/random23304)
 - [随机是比特币的“命根子”！](http://www.8btc.com/random)
 - [进一步探讨比特币签名中的随机风险](http://www.8btc.com/random-3)
 
 #### 密码学算法
+
 - [ARC4算法](https://en.wikipedia.org/wiki/RC4):通常被用来生成伪随机数的信息流。
 - [比特币系统采用的公钥密码学方案和ECDSA签名算法介绍——第一部分：原理](http://www.8btc.com/btc_ecc_dsa_a)
 - [bitcoinwiki-Secp256k1](https://en.bitcoin.it/wiki/Secp256k1)
 
 #### 加解密
+
 - [解读比特币官方钱包加解密](http://www.8btc.com/analyze-the-bitcoin-wallet)
 
 #### 熵
+
 - [谈谈“熵”](http://www.8btc.com/entropy)
 
 #### SPV
-[SPV、SPV节点和SPV钱包](http://www.8btc.com/spv_spv_node_and_spv_wallet)
-[简易支付验证能支持数十亿的比特币用户吗?](https://lilymoana.github.io/SPV.html)
+
+- [SPV、SPV节点和SPV钱包](http://www.8btc.com/spv_spv_node_and_spv_wallet)
+- [简易支付验证能支持数十亿的比特币用户吗?](https://lilymoana.github.io/SPV.html)
 
 #### 白皮书
-[Factom公证通：一本由共识算法维护的账本](http://www.8btc.com/factom-white-paper)
 
+- [Factom公证通：一本由共识算法维护的账本](http://www.8btc.com/factom-white-paper)
 
 #### 其他
-[blockmeta](https://blockmeta.com)
-[bitaddress](https://www.bitaddress.org)
+
+- [blockmeta](https://blockmeta.com)
+- [bitaddress](https://www.bitaddress.org)
 
 
