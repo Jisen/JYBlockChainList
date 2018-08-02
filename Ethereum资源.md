@@ -41,6 +41,8 @@
 ### 技术文章
 - [从零构建基于以太坊（Ethereum）钱包Parity联盟链](http://www.8btc.com/ethereum-parity)
 - [以太坊 汪晓明的博客](http://wangxiaoming.com/blog/archives/)
+- [使用web3j构建以太坊钱包](https://www.jianshu.com/p/1b716180bc4b)
+- [JAVA_SE/ME(Android)实现以太坊钱包开发核心代码笔记](http://www.blockchainbrother.com/article/2782)
 
 ### 其他
 
